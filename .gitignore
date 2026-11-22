@@ -21,3 +21,6 @@ guia-defensa-*.md
 .DS_Store
 Thumbs.db
 .env
+
+# Repaso del examen: HTML intermedio que genera examen/herramientas-repaso/generar.py
+examen/herramientas-repaso/repaso.html
