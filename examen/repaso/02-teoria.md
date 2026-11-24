@@ -75,7 +75,7 @@ Don Norman, *The Design of Everyday Things* (1988). Es quien populariza el **dis
      │ 2. Formular INTENCIÓN  │      │ 7. EVALUAR respecto a meta │
      │ 3. ESPECIFICAR acciones│      │ 6. INTERPRETAR el estado   │
      │ 4. EJECUTAR acciones   │      │ 5. PERCIBIR el estado      │
-     └──────────┬─────────────┘      └────────────▲───────────────┘
+     └──────────┬─────────────┘      └─────────────▲──────────────┘
                 │  golfo de EJECUCIÓN              │ golfo de EVALUACIÓN
                 ▼  «¿cómo lo hago?»                │ «¿qué ha pasado?»
           ┌─────────────────────── SISTEMA ────────┴─────────┐
@@ -200,7 +200,7 @@ Las **metáforas** (papelera, carpeta, escritorio) ayudan porque combinan algo c
    CIERRE                 FIGURA Y FONDO            SIMPLICIDAD
    ┌──   ──┐              ░░░░░░░░░░░░░             ○ ○ ○ ○
    │       │  ← vemos     ░░░▓▓▓▓▓▓▓░░░  ← vemos    ○ ○ ○ ○  ← vemos «un
-          │  un cuadrado ░░░▓▓▓▓▓▓▓░░░  la figura  ○ ○ ○ ○    cuadrado de
+           │  un cuadrado ░░░▓▓▓▓▓▓▓░░░  la figura  ○ ○ ○ ○    cuadrado de
    └──   ──┘  completo    ░░░░░░░░░░░░░  (fondo     ○ ○ ○ ○    círculos»,
                                          ignorado)             no 16 sueltos
 ```
